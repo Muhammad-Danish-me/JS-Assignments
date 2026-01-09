@@ -1,20 +1,20 @@
 // Chapter 21 to 25
 // Q.1
-// var firstName = prompt("Enter your first name")
-// var lastName = prompt("Enter your last name")
+var firstName = prompt("Enter your first name")
+var lastName = prompt("Enter your last name")
 
-// var fullName = firstName + " " + lastName
-// console.log("Hi! " + fullName)
+var fullName = firstName + " " + lastName
+console.log("Hi! " + fullName)
 
 // Q.2
-// var mobile = prompt("Enter Your Favorite Mobile Phone Model.");
-// document.write(
-//   "My Favorite phone is: " +
-//     mobile +
-//     "<br>" +
-//     "Length of string: " +
-//     mobile.length
-// );
+var mobile = prompt("Enter Your Favorite Mobile Phone Model.");
+document.write(
+  "My Favorite phone is: " +
+    mobile +
+    "<br>" +
+    "Length of string: " +
+    mobile.length
+);
 
 // Q.3
 var Country = "Pakistani";
